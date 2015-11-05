@@ -1,0 +1,39 @@
+html {
+    background-color:#8B008B;
+}
+body {
+    background-color:#8B008B;
+}
+hgroup {
+    text-align: center;
+
+    max-width: 0px auto;
+
+}
+.header-text {
+    text-align: center;
+    display: inline;
+    color:#C71585;
+}
+.center-container {
+    padding-top:10%;
+    color:#C71585;
+}
+.img-rijschool {
+    float:left;
+}
+
+.grad1 {
+    height:300px;
+    background: -webkit-linear-gradient(#FF8C00, #8B008B); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#FF8C00, #8B008B); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#FF8C00, #8B008B);/* For Firefox 3.6 to 15 */
+    background: linear-gradient(#FF8C00, #8B008B); /* Standard syntax (must be last) */
+}
+.grad2 {
+    height:220px;
+    background: -webkit-linear-gradient(#FF8C00, #8B008B); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#FF8C00, #8B008B); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#FF8C00, #8B008B);/* For Firefox 3.6 to 15 */
+    background: linear-gradient(#FF8C00, #8B008B); /* Standard syntax (must be last) */
+}
