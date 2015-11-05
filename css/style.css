@@ -16,6 +16,7 @@ header {
     color:#C71585;
 }
 .center-container {
+
     padding-top:10%;
     color:#C71585;
 }
@@ -37,4 +38,22 @@ header {
     background: -o-linear-gradient(#FF8C00, #8B008B); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(#FF8C00, #8B008B);/* For Firefox 3.6 to 15 */
     background: linear-gradient(#FF8C00, #8B008B); /* Standard syntax (must be last) */
+}
+.row-Oo {
+    padding-top: 100px;
+    padding-left: 25%;
+    padding-right:25%;
+}
+
+.grad3 {
+    height:140px;
+    background: -webkit-linear-gradient(#8B008B, #FF8C00); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#8B008B, #FF8C00); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#8B008B, #FF8C00);/* For Firefox 3.6 to 15 */
+    background: linear-gradient(#8B008B, #FF8C00); /* Standard syntax (must be last) */
+    padding-top: 19%
+}
+.container {
+    color:#C71585;
+
 }
