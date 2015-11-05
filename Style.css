@@ -1,0 +1,25 @@
+html {
+	background-color:#8B008B;
+}
+body {
+	background-color:#8B008B;
+}
+hgroup {
+	text-align: center;
+	
+	max-width: 0px auto;
+
+}
+.header-text {
+	text-align: center;
+	display: inline;
+	color:#C71585;
+}
+.center-container {
+	padding-top:10%;
+	color:#C71585;
+}
+.img-rijschool {
+	float:left;
+
+}
